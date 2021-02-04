@@ -1,0 +1,14 @@
+{
+  "name": "pracitce_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nanjangpan/pracitce_web.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
